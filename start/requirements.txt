@@ -1,0 +1,26 @@
+
+# 1. Core LLM Framework
+langchain
+langchain-core
+langchain-community
+langchain_huggingface
+
+# 2. Model Providers
+langchain-openai
+langchain-groq
+langchain-google-genai
+
+# 3. Embeddings and Vector Databases
+sentence-transformers
+faiss-cpu
+chromadb
+
+# 4. Environment and Utilities
+python-dotenv
+pydantic
+requests
+tiktoken
+
+# 5. Optional but Recommended
+fastapi 
+uvicorn
