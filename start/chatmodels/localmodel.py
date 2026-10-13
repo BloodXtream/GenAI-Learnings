@@ -14,4 +14,3 @@ result=chat_model.invoke("i'm the last surviver on earth now what should i do...
 
 print(result)
 
-print(f"\nGeneration time: {time.time() - start:.2f} seconds")
