@@ -1,0 +1,22 @@
+# Environment variables and secrets
+.env
+**/.env
+
+# Python virtual environments
+.venv/
+**/.venv/
+
+# PDF documents
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+.env
+**/.env
+*.pdf
+.venv/
+**/.venv/
+__pycache__/
+*.pyc
